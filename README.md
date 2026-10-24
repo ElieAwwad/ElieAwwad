@@ -1,4 +1,4 @@
-## Hello and Welcome to all
+## Hello and Welcome to all✨
 
 <!--
 **ElieAwwad/ElieAwwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
